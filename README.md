@@ -84,6 +84,7 @@ C:\Users\vatso\PycharmProjects\PythonProject21111\.venv\Scripts\python.exe C:\Us
 ![img.png](img.png)
 
 ## Установка и запуск
+
 ***Клонирование проекта:***
 ```
 git clone https://github.com/Anastasia-0-Iva/NASA_exoplanet_analysis.git
