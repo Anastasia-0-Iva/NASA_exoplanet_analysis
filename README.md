@@ -43,7 +43,6 @@ Exoplanet Explorer — исследовательский инструмент, 
 
 ## Пример вывода:
 ```
-C:\Users\vatso\PycharmProjects\PythonProject21111\.venv\Scripts\python.exe C:\Users\vatso\PycharmProjects\PythonProject21111\utils\exoplanet_analyzer.py 
 Начинаем загрузку данных...
 Данные загружены! 39158 планет
 Введите название планеты: HD 189733 b
